@@ -2,7 +2,7 @@
 
  A Simple Dungeon Generation Algorithm Based on Graph Theory
 
-![Sample](https://github.com/Ayan2018/Graph-Based-Dungeon-Algorithm/assets/24589615/85e7046e-3b6f-499d-8bac-1766e72189b8)
+![Sample](https://github.com/syan2018/Graph-Based-Dungeon-Algorithm/assets/24589615/85e7046e-3b6f-499d-8bac-1766e72189b8)
 
  
 
